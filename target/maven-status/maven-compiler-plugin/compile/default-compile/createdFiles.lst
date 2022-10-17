@@ -1,0 +1,5 @@
+com\santi\msg\MsgResult.class
+com\santi\serivce\FreeService.class
+com\santi\pojo\Free.class
+com\santi\mapper\FreeMapper.class
+com\santi\servlet\FreeServlet.class
